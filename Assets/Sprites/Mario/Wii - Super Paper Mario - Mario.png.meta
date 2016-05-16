@@ -1,9 +1,170 @@
 fileFormatVersion: 2
 guid: 851b7aff77ad2434a97b427db922404d
-timeCreated: 1463066649
+timeCreated: 1463105982
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Wii - Super Paper Mario - Mario_0
+    21300002: Wii - Super Paper Mario - Mario_1
+    21300004: Wii - Super Paper Mario - Mario_2
+    21300006: Wii - Super Paper Mario - Mario_3
+    21300008: Wii - Super Paper Mario - Mario_4
+    21300010: Wii - Super Paper Mario - Mario_5
+    21300012: Wii - Super Paper Mario - Mario_6
+    21300014: Wii - Super Paper Mario - Mario_7
+    21300016: Wii - Super Paper Mario - Mario_8
+    21300018: Wii - Super Paper Mario - Mario_9
+    21300020: Wii - Super Paper Mario - Mario_10
+    21300022: Wii - Super Paper Mario - Mario_11
+    21300024: Wii - Super Paper Mario - Mario_12
+    21300026: Wii - Super Paper Mario - Mario_13
+    21300028: Wii - Super Paper Mario - Mario_14
+    21300030: Wii - Super Paper Mario - Mario_15
+    21300032: Wii - Super Paper Mario - Mario_16
+    21300034: Wii - Super Paper Mario - Mario_17
+    21300036: Wii - Super Paper Mario - Mario_18
+    21300038: Wii - Super Paper Mario - Mario_19
+    21300040: Wii - Super Paper Mario - Mario_20
+    21300042: Wii - Super Paper Mario - Mario_21
+    21300044: Wii - Super Paper Mario - Mario_22
+    21300046: Wii - Super Paper Mario - Mario_23
+    21300048: Wii - Super Paper Mario - Mario_24
+    21300050: Wii - Super Paper Mario - Mario_25
+    21300052: Wii - Super Paper Mario - Mario_26
+    21300054: Wii - Super Paper Mario - Mario_27
+    21300056: Wii - Super Paper Mario - Mario_28
+    21300058: Wii - Super Paper Mario - Mario_29
+    21300060: Wii - Super Paper Mario - Mario_30
+    21300062: Wii - Super Paper Mario - Mario_31
+    21300064: Wii - Super Paper Mario - Mario_32
+    21300066: Wii - Super Paper Mario - Mario_33
+    21300068: Wii - Super Paper Mario - Mario_34
+    21300070: Wii - Super Paper Mario - Mario_35
+    21300072: Wii - Super Paper Mario - Mario_36
+    21300074: Wii - Super Paper Mario - Mario_37
+    21300076: Wii - Super Paper Mario - Mario_38
+    21300078: Wii - Super Paper Mario - Mario_39
+    21300080: Wii - Super Paper Mario - Mario_40
+    21300082: Wii - Super Paper Mario - Mario_41
+    21300084: Wii - Super Paper Mario - Mario_42
+    21300086: Wii - Super Paper Mario - Mario_43
+    21300088: Wii - Super Paper Mario - Mario_44
+    21300090: Wii - Super Paper Mario - Mario_45
+    21300092: Wii - Super Paper Mario - Mario_46
+    21300094: Wii - Super Paper Mario - Mario_47
+    21300096: Wii - Super Paper Mario - Mario_48
+    21300098: Wii - Super Paper Mario - Mario_49
+    21300100: Wii - Super Paper Mario - Mario_50
+    21300102: Wii - Super Paper Mario - Mario_51
+    21300104: Wii - Super Paper Mario - Mario_52
+    21300106: Wii - Super Paper Mario - Mario_53
+    21300108: Wii - Super Paper Mario - Mario_54
+    21300110: Wii - Super Paper Mario - Mario_55
+    21300112: Wii - Super Paper Mario - Mario_56
+    21300114: Wii - Super Paper Mario - Mario_57
+    21300116: Wii - Super Paper Mario - Mario_58
+    21300118: Wii - Super Paper Mario - Mario_59
+    21300120: Wii - Super Paper Mario - Mario_60
+    21300122: Wii - Super Paper Mario - Mario_61
+    21300124: Wii - Super Paper Mario - Mario_62
+    21300126: Wii - Super Paper Mario - Mario_63
+    21300128: Wii - Super Paper Mario - Mario_64
+    21300130: Wii - Super Paper Mario - Mario_65
+    21300132: Wii - Super Paper Mario - Mario_66
+    21300134: Wii - Super Paper Mario - Mario_67
+    21300136: Wii - Super Paper Mario - Mario_68
+    21300138: Wii - Super Paper Mario - Mario_69
+    21300140: Wii - Super Paper Mario - Mario_70
+    21300142: Wii - Super Paper Mario - Mario_71
+    21300144: Wii - Super Paper Mario - Mario_72
+    21300146: Wii - Super Paper Mario - Mario_73
+    21300148: Wii - Super Paper Mario - Mario_74
+    21300150: Wii - Super Paper Mario - Mario_75
+    21300152: Wii - Super Paper Mario - Mario_76
+    21300154: Wii - Super Paper Mario - Mario_77
+    21300156: Wii - Super Paper Mario - Mario_78
+    21300158: Wii - Super Paper Mario - Mario_79
+    21300160: Wii - Super Paper Mario - Mario_80
+    21300162: Wii - Super Paper Mario - Mario_81
+    21300164: Wii - Super Paper Mario - Mario_82
+    21300166: Wii - Super Paper Mario - Mario_83
+    21300168: Wii - Super Paper Mario - Mario_84
+    21300170: Wii - Super Paper Mario - Mario_85
+    21300172: Wii - Super Paper Mario - Mario_86
+    21300174: Wii - Super Paper Mario - Mario_87
+    21300176: Wii - Super Paper Mario - Mario_88
+    21300178: Wii - Super Paper Mario - Mario_89
+    21300180: Wii - Super Paper Mario - Mario_90
+    21300182: Wii - Super Paper Mario - Mario_91
+    21300184: Wii - Super Paper Mario - Mario_92
+    21300186: Wii - Super Paper Mario - Mario_93
+    21300188: Wii - Super Paper Mario - Mario_94
+    21300190: Wii - Super Paper Mario - Mario_95
+    21300192: Wii - Super Paper Mario - Mario_96
+    21300194: Wii - Super Paper Mario - Mario_97
+    21300196: Wii - Super Paper Mario - Mario_98
+    21300198: Wii - Super Paper Mario - Mario_99
+    21300200: Wii - Super Paper Mario - Mario_100
+    21300202: Wii - Super Paper Mario - Mario_101
+    21300204: Wii - Super Paper Mario - Mario_102
+    21300206: Wii - Super Paper Mario - Mario_103
+    21300208: Wii - Super Paper Mario - Mario_104
+    21300210: Wii - Super Paper Mario - Mario_105
+    21300212: Wii - Super Paper Mario - Mario_106
+    21300214: Wii - Super Paper Mario - Mario_107
+    21300216: Wii - Super Paper Mario - Mario_108
+    21300218: Wii - Super Paper Mario - Mario_109
+    21300220: Wii - Super Paper Mario - Mario_110
+    21300222: Wii - Super Paper Mario - Mario_111
+    21300224: Wii - Super Paper Mario - Mario_112
+    21300226: Wii - Super Paper Mario - Mario_113
+    21300228: Wii - Super Paper Mario - Mario_114
+    21300230: Wii - Super Paper Mario - Mario_115
+    21300232: Wii - Super Paper Mario - Mario_116
+    21300234: Wii - Super Paper Mario - Mario_117
+    21300236: Wii - Super Paper Mario - Mario_118
+    21300238: Wii - Super Paper Mario - Mario_119
+    21300240: Wii - Super Paper Mario - Mario_120
+    21300242: Wii - Super Paper Mario - Mario_121
+    21300244: Wii - Super Paper Mario - Mario_122
+    21300246: Wii - Super Paper Mario - Mario_123
+    21300248: Wii - Super Paper Mario - Mario_124
+    21300250: Wii - Super Paper Mario - Mario_125
+    21300252: Wii - Super Paper Mario - Mario_126
+    21300254: Wii - Super Paper Mario - Mario_127
+    21300256: Wii - Super Paper Mario - Mario_128
+    21300258: Wii - Super Paper Mario - Mario_129
+    21300260: Wii - Super Paper Mario - Mario_130
+    21300262: Wii - Super Paper Mario - Mario_131
+    21300264: Wii - Super Paper Mario - Mario_132
+    21300266: Wii - Super Paper Mario - Mario_133
+    21300268: Wii - Super Paper Mario - Mario_134
+    21300270: Wii - Super Paper Mario - Mario_135
+    21300272: Wii - Super Paper Mario - Mario_136
+    21300274: Wii - Super Paper Mario - Mario_137
+    21300276: Wii - Super Paper Mario - Mario_138
+    21300278: Wii - Super Paper Mario - Mario_139
+    21300280: Wii - Super Paper Mario - Mario_140
+    21300282: Wii - Super Paper Mario - Mario_141
+    21300284: Wii - Super Paper Mario - Mario_142
+    21300286: Wii - Super Paper Mario - Mario_143
+    21300288: Wii - Super Paper Mario - Mario_144
+    21300290: Wii - Super Paper Mario - Mario_145
+    21300292: Wii - Super Paper Mario - Mario_146
+    21300294: Wii - Super Paper Mario - Mario_147
+    21300296: Wii - Super Paper Mario - Mario_148
+    21300298: Wii - Super Paper Mario - Mario_149
+    21300300: Wii - Super Paper Mario - Mario_150
+    21300302: Wii - Super Paper Mario - Mario_151
+    21300304: Wii - Super Paper Mario - Mario_152
+    21300306: Wii - Super Paper Mario - Mario_153
+    21300308: Wii - Super Paper Mario - Mario_154
+    21300310: Wii - Super Paper Mario - Mario_155
+    21300312: Wii - Super Paper Mario - Mario_156
+    21300314: Wii - Super Paper Mario - Mario_157
+    21300316: Wii - Super Paper Mario - Mario_158
+    21300318: Wii - Super Paper Mario - Mario_159
+    21300320: Wii - Super Paper Mario - Mario_160
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,26 +191,2886 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
-    wrapMode: -1
-  nPOTScale: 1
+    wrapMode: 1
+  nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
-  alphaIsTransparency: 0
-  textureType: -1
+  alphaIsTransparency: 1
+  textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Wii - Super Paper Mario - Mario_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1885
+        width: 454
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.89372, y: -16.86145}
+        - {x: 102.89372, y: -24.86145}
+        - {x: 104.89372, y: -26.86145}
+        - {x: 187.89372, y: -26.86145}
+        - {x: 188.89372, y: -25.86145}
+        - {x: 188.89372, y: 231.13855}
+        - {x: 187.89372, y: 232.13855}
+        - {x: 104.89372, y: 232.13855}
+        - {x: 102.89372, y: 230.13855}
+        - {x: 102.89372, y: 219.13855}
+        - {x: 26.893723, y: 219.13855}
+        - {x: 26.893723, y: 247.13855}
+        - {x: -20.106277, y: 247.13855}
+        - {x: -20.106277, y: 219.13855}
+        - {x: -100.10628, y: 219.13855}
+        - {x: -100.10628, y: 230.13855}
+        - {x: -102.10628, y: 232.13855}
+        - {x: -186.10628, y: 232.13855}
+        - {x: -187.10628, y: 231.13855}
+        - {x: -187.10628, y: -25.86145}
+        - {x: -186.10628, y: -26.86145}
+        - {x: -102.10628, y: -26.86145}
+        - {x: -100.10628, y: -24.86145}
+        - {x: -100.10628, y: -16.86145}
+        - {x: -20.106277, y: -16.86145}
+        - {x: -20.106277, y: -245.86145}
+        - {x: -19.106277, y: -246.86145}
+        - {x: 25.893723, y: -246.86145}
+        - {x: 26.893723, y: -245.86145}
+        - {x: 26.893723, y: -16.86145}
+    - name: Wii - Super Paper Mario - Mario_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2084
+        width: 303
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125.844604, y: 158.20935}
+        - {x: 68.844604, y: 156.20935}
+        - {x: 22.844604, y: 165.20935}
+        - {x: -14.1553955, y: 165.20935}
+        - {x: -14.1553955, y: 147.20935}
+        - {x: -69.155396, y: 155.20935}
+        - {x: -124.155396, y: 155.20935}
+        - {x: -125.155396, y: 154.20935}
+        - {x: -125.155396, y: -16.79065}
+        - {x: -124.155396, y: -17.79065}
+        - {x: -68.155396, y: -18.79065}
+        - {x: -14.1553955, y: -10.790649}
+        - {x: -14.1553955, y: -163.79065}
+        - {x: -13.1553955, y: -164.79065}
+        - {x: 17.844604, y: -164.79065}
+        - {x: 18.844604, y: -163.79065}
+        - {x: 69.844604, y: -17.79065}
+        - {x: 125.844604, y: -17.79065}
+    - name: Wii - Super Paper Mario - Mario_2
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2220
+        width: 213
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.859924, y: 81.838135}
+        - {x: -87.859924, y: 73.838135}
+        - {x: -87.859924, y: -2.1618652}
+        - {x: -62.859924, y: -76.161865}
+        - {x: -48.859924, y: -81.161865}
+        - {x: 72.140076, y: -81.161865}
+        - {x: 88.140076, y: -45.161865}
+        - {x: 88.140076, y: 75.838135}
+        - {x: 82.140076, y: 81.838135}
+    - name: Wii - Super Paper Mario - Mario_3
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2180
+        width: 209
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.91388, y: -9.140869}
+        - {x: 29.91388, y: -9.140869}
+        - {x: 68.91388, y: -8.140869}
+        - {x: 72.91388, y: -8.140869}
+        - {x: 82.91388, y: -0.14086914}
+        - {x: 86.91388, y: 3.8591309}
+        - {x: 86.91388, y: 43.85913}
+        - {x: 51.91388, y: 77.85913}
+        - {x: 37.91388, y: 73.85913}
+        - {x: 41.91388, y: 91.85913}
+        - {x: 12.913879, y: 102.85913}
+        - {x: -86.08612, y: 102.85913}
+        - {x: -86.08612, y: -94.14087}
+        - {x: -76.08612, y: -102.14087}
+        - {x: 22.91388, y: -102.14087}
+        - {x: 68.91388, y: -82.14087}
+        - {x: 66.91388, y: -24.14087}
+        - {x: 47.91388, y: -12.140869}
+    - name: Wii - Super Paper Mario - Mario_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1566
+        width: 155
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.0475, y: 80.63049}
+        - {x: -64.0475, y: 49.630493}
+        - {x: -64.0475, y: -18.369507}
+        - {x: -36.0475, y: -80.36951}
+        - {x: 64.9525, y: -80.36951}
+        - {x: 64.9525, y: 35.630493}
+        - {x: 39.9525, y: 80.63049}
+    - name: Wii - Super Paper Mario - Mario_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1570
+        width: 180
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.577301, y: 112.428345}
+        - {x: -65.4227, y: 112.428345}
+        - {x: -74.4227, y: 110.428345}
+        - {x: -74.4227, y: 28.428345}
+        - {x: -40.4227, y: -109.571655}
+        - {x: -26.422699, y: -111.571655}
+        - {x: 35.5773, y: -111.571655}
+        - {x: 74.5773, y: -78.571655}
+        - {x: 74.5773, y: 26.428345}
+        - {x: 60.5773, y: 90.428345}
+    - name: Wii - Super Paper Mario - Mario_6
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1568
+        width: 153
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.728668, y: 103.27942}
+        - {x: -54.27133, y: 103.27942}
+        - {x: -63.27133, y: 78.27942}
+        - {x: -63.27133, y: -33.72058}
+        - {x: -47.27133, y: -88.72058}
+        - {x: -40.27133, y: -101.72058}
+        - {x: 39.72867, y: -101.72058}
+        - {x: 58.72867, y: -66.72058}
+        - {x: 63.72867, y: -45.72058}
+        - {x: 63.72867, y: 76.27942}
+    - name: Wii - Super Paper Mario - Mario_7
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1608
+        width: 192
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.15216, y: 85.75842}
+        - {x: -79.15216, y: 65.75842}
+        - {x: -79.15216, y: 32.758423}
+        - {x: -59.15216, y: 15.758423}
+        - {x: -40.15216, y: 2.7584229}
+        - {x: -48.15216, y: 6.758423}
+        - {x: -64.15216, y: 8.758423}
+        - {x: -79.15216, y: -4.241577}
+        - {x: -79.15216, y: -53.241577}
+        - {x: -17.15216, y: -84.24158}
+        - {x: 79.84784, y: -84.24158}
+        - {x: 79.84784, y: 61.758423}
+        - {x: 28.84784, y: 85.75842}
+    - name: Wii - Super Paper Mario - Mario_8
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1566
+        width: 157
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.164246, y: 103.13049}
+        - {x: -64.835754, y: 103.13049}
+        - {x: -64.835754, y: -94.86951}
+        - {x: -62.835754, y: -102.86951}
+        - {x: 42.164246, y: -102.86951}
+        - {x: 57.164246, y: -95.86951}
+        - {x: 65.164246, y: -60.869507}
+        - {x: 65.164246, y: 71.13049}
+    - name: Wii - Super Paper Mario - Mario_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1262
+        width: 213
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.994362, y: 100.9895}
+        - {x: -28.994362, y: 75.9895}
+        - {x: -23.994362, y: 58.989502}
+        - {x: -35.99436, y: 47.989502}
+        - {x: -39.99436, y: 39.989502}
+        - {x: -40.99436, y: 26.989502}
+        - {x: -33.99436, y: 17.989502}
+        - {x: -29.994362, y: 13.989502}
+        - {x: -34.99436, y: 9.989502}
+        - {x: -36.99436, y: 19.989502}
+        - {x: -41.99436, y: 28.989502}
+        - {x: -63.99436, y: 37.989502}
+        - {x: -87.99436, y: 20.989502}
+        - {x: -87.99436, y: -36.010498}
+        - {x: -82.99436, y: -56.010498}
+        - {x: -11.994362, y: -100.0105}
+        - {x: 41.00564, y: -100.0105}
+        - {x: 89.00564, y: -79.0105}
+        - {x: 89.00564, y: 99.9895}
+        - {x: 85.00564, y: 100.9895}
+    - name: Wii - Super Paper Mario - Mario_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1263
+        width: 168
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.151367, y: 97.313965}
+        - {x: -64.15137, y: 66.313965}
+        - {x: -69.15137, y: 54.313965}
+        - {x: -69.15137, y: -67.686035}
+        - {x: -50.151367, y: -96.686035}
+        - {x: 70.84863, y: -96.686035}
+        - {x: 70.84863, y: 97.313965}
+    - name: Wii - Super Paper Mario - Mario_11
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1243
+        width: 243
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.855896, y: 102.32446}
+        - {x: -56.144104, y: 102.32446}
+        - {x: -100.144104, y: 44.324463}
+        - {x: -100.144104, y: -31.675537}
+        - {x: -88.144104, y: -40.675537}
+        - {x: -49.144104, y: -100.67554}
+        - {x: 44.855896, y: -100.67554}
+        - {x: 86.855896, y: -73.67554}
+        - {x: 100.855896, y: -46.675537}
+        - {x: 100.855896, y: 45.324463}
+    - name: Wii - Super Paper Mario - Mario_12
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1268
+        width: 223
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.10309, y: 80.4364}
+        - {x: 52.10309, y: 103.4364}
+        - {x: -31.896912, y: 103.4364}
+        - {x: -91.89691, y: 79.4364}
+        - {x: -91.89691, y: 34.4364}
+        - {x: -54.89691, y: -77.5636}
+        - {x: -49.89691, y: -90.5636}
+        - {x: -42.89691, y: -102.5636}
+        - {x: 44.10309, y: -102.5636}
+        - {x: 52.10309, y: -100.5636}
+        - {x: 92.10309, y: 14.436401}
+    - name: Wii - Super Paper Mario - Mario_13
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1241
+        width: 175
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.490356, y: 78.67554}
+        - {x: -72.49036, y: 27.675537}
+        - {x: -72.49036, y: -1.3244629}
+        - {x: -35.490356, y: -78.32446}
+        - {x: 72.50964, y: -78.32446}
+        - {x: 72.50964, y: 61.675537}
+        - {x: 29.509644, y: 78.67554}
+    - name: Wii - Super Paper Mario - Mario_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1042
+        width: 133
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.877617, y: 76.104675}
+        - {x: -54.877617, y: -7.8953247}
+        - {x: -42.877617, y: -7.8953247}
+        - {x: -47.877617, y: -75.895325}
+        - {x: 33.122383, y: -75.895325}
+        - {x: 55.122383, y: -61.895325}
+        - {x: 55.122383, y: 76.104675}
+    - name: Wii - Super Paper Mario - Mario_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1042
+        width: 133
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.652977, y: 76.604675}
+        - {x: -54.652977, y: -34.395325}
+        - {x: -9.652977, y: -76.395325}
+        - {x: 56.347023, y: -76.395325}
+        - {x: 56.347023, y: 76.604675}
+    - name: Wii - Super Paper Mario - Mario_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1038
+        width: 99
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.08777, y: 62.306763}
+        - {x: -41.08777, y: -18.693237}
+        - {x: -28.087769, y: -60.693237}
+        - {x: 12.912231, y: -60.693237}
+        - {x: 41.91223, y: -10.693237}
+        - {x: 41.91223, y: 55.306763}
+        - {x: 28.912231, y: 62.306763}
+    - name: Wii - Super Paper Mario - Mario_17
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1052
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.296295, y: 76.34943}
+        - {x: -65.703705, y: 76.34943}
+        - {x: -75.703705, y: 53.349426}
+        - {x: -75.703705, y: -50.650574}
+        - {x: -56.703705, y: -60.650574}
+        - {x: -22.703705, y: -75.65057}
+        - {x: 32.296295, y: -75.65057}
+        - {x: 63.296295, y: -63.650574}
+        - {x: 76.296295, y: -38.650574}
+        - {x: 76.296295, y: 40.349426}
+    - name: Wii - Super Paper Mario - Mario_18
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1045
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.02655, y: 80.078125}
+        - {x: -79.02655, y: 42.078125}
+        - {x: -79.02655, y: -61.921875}
+        - {x: -51.02655, y: -78.921875}
+        - {x: 51.97345, y: -78.921875}
+        - {x: 79.97345, y: -51.921875}
+        - {x: 79.97345, y: 50.078125}
+        - {x: 59.97345, y: 80.078125}
+      - - {x: -54.02655, y: 42.078125}
+        - {x: 27.97345, y: 61.078125}
+        - {x: 66.97345, y: 15.078125}
+        - {x: 18.97345, y: -65.921875}
+    - name: Wii - Super Paper Mario - Mario_19
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1140
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.7536, y: 38.90338}
+        - {x: -40.7536, y: -37.09662}
+        - {x: 41.2464, y: -37.09662}
+        - {x: 41.2464, y: 33.90338}
+        - {x: 15.246399, y: 38.90338}
+    - name: Wii - Super Paper Mario - Mario_20
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1127
+        width: 153
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.14087, y: 44.68518}
+        - {x: -63.14087, y: 3.6851807}
+        - {x: -63.14087, y: -13.314819}
+        - {x: -60.14087, y: -18.31482}
+        - {x: -51.14087, y: -16.31482}
+        - {x: 3.8591309, y: -19.31482}
+        - {x: 42.85913, y: -44.31482}
+        - {x: 59.85913, y: -44.31482}
+        - {x: 63.85913, y: -35.31482}
+        - {x: 63.85913, y: 11.685181}
+        - {x: 23.85913, y: 44.68518}
+    - name: Wii - Super Paper Mario - Mario_21
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1139
+        width: 113
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.602234, y: 40.57892}
+        - {x: -46.602234, y: 21.578918}
+        - {x: -46.602234, y: -20.421082}
+        - {x: -31.602234, y: -40.42108}
+        - {x: 46.397766, y: -40.42108}
+        - {x: 47.397766, y: -35.42108}
+        - {x: 47.397766, y: 16.578918}
+        - {x: 23.397766, y: 40.57892}
+    - name: Wii - Super Paper Mario - Mario_22
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1136
+        width: 157
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.89374, y: -41.39453}
+        - {x: 65.10626, y: -41.39453}
+        - {x: 65.10626, y: -4.3945312}
+        - {x: 30.106262, y: 42.60547}
+        - {x: -35.893738, y: 42.60547}
+        - {x: -64.89374, y: 18.605469}
+    - name: Wii - Super Paper Mario - Mario_23
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1064
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_24
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1067
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.4814453, y: 19.716614}
+        - {x: -15.481445, y: 16.716614}
+        - {x: -17.481445, y: 7.716614}
+        - {x: -17.481445, y: -18.283386}
+        - {x: 18.518555, y: -18.283386}
+        - {x: 18.518555, y: 13.716614}
+        - {x: 11.518555, y: 19.716614}
+    - name: Wii - Super Paper Mario - Mario_25
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1067
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.593384, y: 19.716614}
+        - {x: -21.406616, y: 19.716614}
+        - {x: -21.406616, y: -14.283386}
+        - {x: -13.406616, y: -18.283386}
+        - {x: 15.593384, y: -18.283386}
+        - {x: 21.593384, y: -14.283386}
+        - {x: 21.593384, y: 9.716614}
+    - name: Wii - Super Paper Mario - Mario_26
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1068
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.0177, y: 18.041077}
+        - {x: -26.0177, y: 13.041077}
+        - {x: -26.0177, y: -3.9589233}
+        - {x: -20.0177, y: -16.958923}
+        - {x: 23.9823, y: -16.958923}
+        - {x: 27.9823, y: -7.9589233}
+        - {x: 27.9823, y: 18.041077}
+    - name: Wii - Super Paper Mario - Mario_27
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1070
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_28
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1066
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.483887, y: 20.39209}
+        - {x: -21.483887, y: 14.39209}
+        - {x: -21.483887, y: -13.60791}
+        - {x: -16.483887, y: -17.60791}
+        - {x: -11.483887, y: -18.60791}
+        - {x: 16.516113, y: -18.60791}
+        - {x: 21.516113, y: -16.60791}
+        - {x: 21.516113, y: 14.39209}
+        - {x: 8.516113, y: 20.39209}
+    - name: Wii - Super Paper Mario - Mario_29
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1068
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 884
+        width: 153
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.904186, y: 59.33734}
+        - {x: -62.904186, y: -36.66266}
+        - {x: -38.904186, y: -55.66266}
+        - {x: -24.904186, y: -57.66266}
+        - {x: 22.095814, y: -57.66266}
+        - {x: 64.09581, y: -38.66266}
+        - {x: 64.09581, y: 23.337341}
+        - {x: 51.095814, y: 59.33734}
+    - name: Wii - Super Paper Mario - Mario_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 884
+        width: 147
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.581329, y: 59.33734}
+        - {x: -32.41867, y: 59.33734}
+        - {x: -60.41867, y: 26.337341}
+        - {x: -60.41867, y: -36.66266}
+        - {x: -32.41867, y: -57.66266}
+        - {x: 23.58133, y: -57.66266}
+        - {x: 61.58133, y: -42.66266}
+        - {x: 61.58133, y: 12.337341}
+        - {x: 30.58133, y: 53.33734}
+    - name: Wii - Super Paper Mario - Mario_32
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 888
+        width: 137
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.608704, y: 55.635254}
+        - {x: -56.608704, y: 23.635254}
+        - {x: -56.608704, y: -52.364746}
+        - {x: -37.608704, y: -55.364746}
+        - {x: 43.391296, y: -55.364746}
+        - {x: 57.391296, y: -41.364746}
+        - {x: 57.391296, y: 25.635254}
+        - {x: 26.391296, y: 55.635254}
+    - name: Wii - Super Paper Mario - Mario_33
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 888
+        width: 142
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.42996216, y: 51.135254}
+        - {x: -46.570038, y: 51.135254}
+        - {x: -58.570038, y: 30.135254}
+        - {x: -58.570038, y: -48.864746}
+        - {x: -49.570038, y: -50.864746}
+        - {x: 56.429962, y: -50.864746}
+        - {x: 59.429962, y: -43.864746}
+        - {x: 59.429962, y: 36.135254}
+        - {x: 17.429962, y: 47.135254}
+    - name: Wii - Super Paper Mario - Mario_34
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 886
+        width: 127
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.419495, y: 57.98633}
+        - {x: -43.419495, y: 49.98633}
+        - {x: -52.419495, y: 19.986328}
+        - {x: -52.419495, y: -31.013672}
+        - {x: -48.419495, y: -38.01367}
+        - {x: -28.419495, y: -57.01367}
+        - {x: 49.580505, y: -57.01367}
+        - {x: 52.580505, y: -48.01367}
+        - {x: 52.580505, y: 29.986328}
+        - {x: 44.580505, y: 57.98633}
+    - name: Wii - Super Paper Mario - Mario_35
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 882
+        width: 137
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.89691, y: 59.188416}
+        - {x: -56.89691, y: 18.188416}
+        - {x: -56.89691, y: -52.811584}
+        - {x: -40.89691, y: -58.811584}
+        - {x: 44.10309, y: -58.811584}
+        - {x: 57.10309, y: -40.811584}
+        - {x: 57.10309, y: 9.188416}
+        - {x: 39.10309, y: 59.188416}
+    - name: Wii - Super Paper Mario - Mario_36
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 924
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.980652, y: 42.816406}
+        - {x: -61.98065, y: 12.816406}
+        - {x: -61.98065, y: -11.183594}
+        - {x: 21.019348, y: -41.183594}
+        - {x: 62.01935, y: -41.183594}
+        - {x: 62.01935, y: -5.1835938}
+        - {x: 20.019348, y: 42.816406}
+    - name: Wii - Super Paper Mario - Mario_37
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 888
+        width: 148
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.153809, y: 52.135254}
+        - {x: 21.153809, y: 55.135254}
+        - {x: -41.84619, y: 55.135254}
+        - {x: -60.84619, y: 30.135254}
+        - {x: -60.84619, y: -41.864746}
+        - {x: -48.84619, y: -54.864746}
+        - {x: 48.15381, y: -54.864746}
+        - {x: 61.15381, y: -49.864746}
+        - {x: 62.15381, y: -42.864746}
+        - {x: 62.15381, y: 16.135254}
+    - name: Wii - Super Paper Mario - Mario_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 733
+        width: 152
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.877617, y: 53.34137}
+        - {x: -62.877617, y: 27.34137}
+        - {x: -62.877617, y: -9.65863}
+        - {x: -48.877617, y: -45.65863}
+        - {x: -35.877617, y: -52.65863}
+        - {x: 57.122383, y: -52.65863}
+        - {x: 63.122383, y: -51.65863}
+        - {x: 63.122383, y: 28.34137}
+        - {x: 12.122383, y: 53.34137}
+    - name: Wii - Super Paper Mario - Mario_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 728
+        width: 156
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.392105, y: 57.718994}
+        - {x: -64.392105, y: -57.281006}
+        - {x: 63.607895, y: -57.281006}
+        - {x: 64.607895, y: -55.281006}
+        - {x: 64.607895, y: 23.718994}
+        - {x: 47.607895, y: 57.718994}
+    - name: Wii - Super Paper Mario - Mario_40
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 728
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.055542, y: 58.218994}
+        - {x: -61.055542, y: 30.218994}
+        - {x: -61.055542, y: -37.781006}
+        - {x: -37.055542, y: -57.781006}
+        - {x: 59.944458, y: -57.781006}
+        - {x: 61.944458, y: -46.781006}
+        - {x: 61.944458, y: 25.218994}
+        - {x: 14.944458, y: 58.218994}
+    - name: Wii - Super Paper Mario - Mario_41
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 734
+        width: 154
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.81482, y: 57.165894}
+        - {x: -63.81482, y: 42.165894}
+        - {x: -63.81482, y: -45.834106}
+        - {x: -50.81482, y: -56.834106}
+        - {x: 64.18518, y: -56.834106}
+        - {x: 64.18518, y: 33.165894}
+        - {x: 13.185181, y: 57.165894}
+    - name: Wii - Super Paper Mario - Mario_42
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 814
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.8131714, y: 22.624023}
+        - {x: -36.81317, y: 16.624023}
+        - {x: -38.81317, y: 11.624023}
+        - {x: -38.81317, y: -10.375977}
+        - {x: -7.8131714, y: -22.375977}
+        - {x: 28.186829, y: -22.375977}
+        - {x: 39.18683, y: -7.3759766}
+        - {x: 39.18683, y: 15.624023}
+        - {x: 31.186829, y: 22.624023}
+    - name: Wii - Super Paper Mario - Mario_43
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 814
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.3172, y: -19.375977}
+        - {x: -29.3172, y: -21.375977}
+        - {x: 13.6828, y: -21.375977}
+        - {x: 31.6828, y: -12.375977}
+        - {x: 31.6828, y: 21.624023}
+        - {x: -17.3172, y: 21.624023}
+        - {x: -30.3172, y: 18.624023}
+    - name: Wii - Super Paper Mario - Mario_44
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 797
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.3638916, y: 28.60791}
+        - {x: -29.363892, y: -2.3920898}
+        - {x: -29.363892, y: -27.39209}
+        - {x: -28.363892, y: -28.39209}
+        - {x: 9.636108, y: -28.39209}
+        - {x: 30.636108, y: -17.39209}
+        - {x: 30.636108, y: 22.60791}
+        - {x: 19.636108, y: 28.60791}
+    - name: Wii - Super Paper Mario - Mario_45
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 795
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.288208, y: 30.458923}
+        - {x: -13.288208, y: 28.458923}
+        - {x: -27.288208, y: 14.458923}
+        - {x: -27.288208, y: -29.541077}
+        - {x: 11.711792, y: -29.541077}
+        - {x: 28.711792, y: -22.541077}
+        - {x: 28.711792, y: 17.458923}
+        - {x: 18.711792, y: 30.458923}
+    - name: Wii - Super Paper Mario - Mario_46
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 788
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.718262, y: 32.687622}
+        - {x: -19.281738, y: 32.687622}
+        - {x: -25.281738, y: 15.687622}
+        - {x: -25.281738, y: -28.312378}
+        - {x: -19.281738, y: -31.312378}
+        - {x: 24.718262, y: -31.312378}
+        - {x: 26.718262, y: -22.312378}
+        - {x: 26.718262, y: 30.687622}
+    - name: Wii - Super Paper Mario - Mario_47
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 789
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.45337, y: 32.012085}
+        - {x: -9.546631, y: 32.012085}
+        - {x: -28.54663, y: 19.012085}
+        - {x: -28.54663, y: -11.987915}
+        - {x: -25.54663, y: -18.987915}
+        - {x: -12.546631, y: -30.987915}
+        - {x: 21.45337, y: -30.987915}
+        - {x: 27.45337, y: -24.987915}
+        - {x: 30.45337, y: 0.012084961}
+        - {x: 30.45337, y: 23.012085}
+    - name: Wii - Super Paper Mario - Mario_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 630
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.898552, y: 32.420288}
+        - {x: -32.898552, y: 14.420288}
+        - {x: -32.898552, y: -9.579712}
+        - {x: -31.898552, y: -17.579712}
+        - {x: -17.898552, y: -31.579712}
+        - {x: 21.101448, y: -31.579712}
+        - {x: 33.101448, y: -26.579712}
+        - {x: 33.101448, y: 29.420288}
+        - {x: 23.101448, y: 32.420288}
+    - name: Wii - Super Paper Mario - Mario_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 663
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.455719, y: 23.628052}
+        - {x: -20.455719, y: 13.628052}
+        - {x: -20.455719, y: -19.371948}
+        - {x: -13.455719, y: -22.371948}
+        - {x: 21.544281, y: -22.371948}
+        - {x: 21.544281, y: 23.628052}
+    - name: Wii - Super Paper Mario - Mario_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 643
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.842987, y: 27.638489}
+        - {x: -25.842987, y: 23.638489}
+        - {x: -25.842987, y: -21.361511}
+        - {x: -15.842987, y: -27.361511}
+        - {x: 24.157013, y: -27.361511}
+        - {x: 27.157013, y: -18.361511}
+        - {x: 27.157013, y: 9.638489}
+        - {x: 22.157013, y: 27.638489}
+    - name: Wii - Super Paper Mario - Mario_51
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 635
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.567627, y: 32.542664}
+        - {x: -10.432373, y: 32.542664}
+        - {x: -29.432373, y: 6.5426636}
+        - {x: -29.432373, y: -26.457336}
+        - {x: -17.432373, y: -31.457336}
+        - {x: 26.567627, y: -31.457336}
+        - {x: 29.567627, y: -29.457336}
+        - {x: 29.567627, y: 25.542664}
+        - {x: 28.567627, y: 31.542664}
+    - name: Wii - Super Paper Mario - Mario_52
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 631
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.243164, y: 32.24475}
+        - {x: -20.243164, y: 31.244751}
+        - {x: -20.243164, y: -26.755249}
+        - {x: -10.243164, y: -31.755249}
+        - {x: 21.756836, y: -31.755249}
+        - {x: 21.756836, y: 25.244751}
+        - {x: 13.756836, y: 32.24475}
+    - name: Wii - Super Paper Mario - Mario_53
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 651
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.008057, y: 26.234314}
+        - {x: -18.008057, y: 18.234314}
+        - {x: -24.008057, y: 6.234314}
+        - {x: -24.008057, y: -24.765686}
+        - {x: 25.991943, y: -24.765686}
+        - {x: 25.991943, y: 26.234314}
+    - name: Wii - Super Paper Mario - Mario_54
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 640
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.368774, y: 28.66504}
+        - {x: -30.368774, y: -1.3349609}
+        - {x: -30.368774, y: -27.33496}
+        - {x: 15.631226, y: -27.33496}
+        - {x: 31.631226, y: -4.334961}
+        - {x: 31.631226, y: 28.66504}
+    - name: Wii - Super Paper Mario - Mario_55
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 650
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.718994, y: 28.909851}
+        - {x: -21.718994, y: 23.909851}
+        - {x: -21.718994, y: -10.090149}
+        - {x: -8.718994, y: -27.090149}
+        - {x: 23.281006, y: -27.090149}
+        - {x: 23.281006, y: 28.909851}
+    - name: Wii - Super Paper Mario - Mario_56
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 616
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.562744, y: 33.877625}
+        - {x: -13.562744, y: 30.877625}
+        - {x: -19.562744, y: 24.877625}
+        - {x: -28.562744, y: 7.8776245}
+        - {x: -28.562744, y: -10.1223755}
+        - {x: -23.562744, y: -23.122375}
+        - {x: -5.562744, y: -32.122375}
+        - {x: 13.437256, y: -32.122375}
+        - {x: 30.437256, y: -8.1223755}
+        - {x: 30.437256, y: 15.8776245}
+        - {x: 27.437256, y: 33.877625}
+    - name: Wii - Super Paper Mario - Mario_57
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 631
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_58
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 600
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.510468, y: 17.186005}
+        - {x: -12.489532, y: 17.186005}
+        - {x: -20.489532, y: 15.186005}
+        - {x: -20.489532, y: -8.813995}
+        - {x: -11.489532, y: -15.813995}
+        - {x: 19.510468, y: -15.813995}
+        - {x: 21.510468, y: -12.813995}
+        - {x: 21.510468, y: 11.186005}
+    - name: Wii - Super Paper Mario - Mario_59
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 593
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.16986, y: 20.414673}
+        - {x: -28.16986, y: 18.414673}
+        - {x: -28.16986, y: -18.585327}
+        - {x: 26.83014, y: -18.585327}
+        - {x: 28.83014, y: -13.585327}
+        - {x: 28.83014, y: 14.414673}
+        - {x: 26.83014, y: 20.414673}
+    - name: Wii - Super Paper Mario - Mario_60
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 611
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.442017, y: 17.755249}
+        - {x: -20.442017, y: 15.755249}
+        - {x: -20.442017, y: -16.244751}
+        - {x: 20.557983, y: -16.244751}
+        - {x: 20.557983, y: 7.755249}
+        - {x: 14.557983, y: 17.755249}
+    - name: Wii - Super Paper Mario - Mario_61
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 597
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_62
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 517
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.79227, y: 24.754425}
+        - {x: -33.79227, y: 12.754425}
+        - {x: -33.79227, y: -9.245575}
+        - {x: -27.79227, y: -17.245575}
+        - {x: -20.79227, y: -20.245575}
+        - {x: -9.792271, y: -24.245575}
+        - {x: 26.20773, y: -24.245575}
+        - {x: 34.20773, y: -11.245575}
+        - {x: 34.20773, y: 24.754425}
+    - name: Wii - Super Paper Mario - Mario_63
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 516
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.647339, y: 26.429962}
+        - {x: -25.647339, y: 8.429962}
+        - {x: -25.647339, y: -24.570038}
+        - {x: -20.647339, y: -25.570038}
+        - {x: 24.352661, y: -25.570038}
+        - {x: 26.352661, y: -21.570038}
+        - {x: 26.352661, y: 26.429962}
+    - name: Wii - Super Paper Mario - Mario_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 495
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_65
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 519
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.7528076, y: 28.403381}
+        - {x: -23.247192, y: -2.5966187}
+        - {x: -23.247192, y: -26.596619}
+        - {x: 16.752808, y: -26.596619}
+        - {x: 23.752808, y: -3.5966187}
+        - {x: 23.752808, y: 28.403381}
+    - name: Wii - Super Paper Mario - Mario_66
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 498
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.448456, y: -34.410614}
+        - {x: 16.551544, y: -34.410614}
+        - {x: 16.551544, y: 18.589386}
+        - {x: 11.551544, y: 35.589386}
+        - {x: -14.448456, y: 35.589386}
+        - {x: -16.448456, y: 9.589386}
+    - name: Wii - Super Paper Mario - Mario_67
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 495
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_68
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 497
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.037841797, y: 36.764893}
+        - {x: -10.037842, y: 25.764893}
+        - {x: -16.037842, y: 0.7648926}
+        - {x: -16.037842, y: -31.235107}
+        - {x: -11.037842, y: -35.235107}
+        - {x: 16.962158, y: -35.235107}
+        - {x: 16.962158, y: 36.764893}
+    - name: Wii - Super Paper Mario - Mario_69
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 515
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.7817993, y: 30.605469}
+        - {x: -15.218201, y: 22.605469}
+        - {x: -22.2182, y: 10.605469}
+        - {x: -22.2182, y: -25.394531}
+        - {x: -21.2182, y: -29.394531}
+        - {x: 17.7818, y: -29.394531}
+        - {x: 22.7818, y: -13.394531}
+        - {x: 22.7818, y: 30.605469}
+    - name: Wii - Super Paper Mario - Mario_70
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 472
+        width: 42
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1376953, y: 46.652985}
+        - {x: -17.137695, y: 0.6529846}
+        - {x: -17.137695, y: -44.347015}
+        - {x: -12.137695, y: -46.347015}
+        - {x: 10.862305, y: -46.347015}
+        - {x: 17.862305, y: -39.347015}
+        - {x: 17.862305, y: 46.652985}
+    - name: Wii - Super Paper Mario - Mario_71
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 506
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.9798584, y: 32.68518}
+        - {x: -16.020142, y: 32.68518}
+        - {x: -18.020142, y: 31.68518}
+        - {x: -18.020142, y: -16.31482}
+        - {x: -17.020142, y: -23.31482}
+        - {x: -9.020142, y: -32.31482}
+        - {x: 13.979858, y: -32.31482}
+        - {x: 18.979858, y: -28.31482}
+        - {x: 18.979858, y: 3.6851807}
+        - {x: 15.979858, y: 22.68518}
+    - name: Wii - Super Paper Mario - Mario_72
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 472
+        width: 43
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.998413, y: -45.847015}
+        - {x: 16.001587, y: -45.847015}
+        - {x: 18.001587, y: -44.847015}
+        - {x: 18.001587, y: 4.1529846}
+        - {x: 8.001587, y: 46.152985}
+        - {x: -15.998413, y: 46.152985}
+        - {x: -17.998413, y: 35.152985}
+    - name: Wii - Super Paper Mario - Mario_73
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 512
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5668335, y: 28.63205}
+        - {x: -21.566833, y: 23.63205}
+        - {x: -25.566833, y: 16.63205}
+        - {x: -25.566833, y: -16.36795}
+        - {x: -17.566833, y: -28.36795}
+        - {x: 18.433167, y: -28.36795}
+        - {x: 26.433167, y: -17.36795}
+        - {x: 26.433167, y: 24.63205}
+        - {x: 17.433167, y: 28.63205}
+    - name: Wii - Super Paper Mario - Mario_74
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 498
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.529785, y: 35.589386}
+        - {x: -20.470215, y: 35.589386}
+        - {x: -22.470215, y: 34.589386}
+        - {x: -34.470215, y: 14.589386}
+        - {x: -34.470215, y: -27.410614}
+        - {x: -32.470215, y: -34.410614}
+        - {x: 29.529785, y: -34.410614}
+        - {x: 35.529785, y: -21.410614}
+        - {x: 35.529785, y: 9.589386}
+        - {x: 31.529785, y: 17.589386}
+    - name: Wii - Super Paper Mario - Mario_75
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 499
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.304321, y: 34.41385}
+        - {x: -22.304321, y: 26.413849}
+        - {x: -30.304321, y: 10.413849}
+        - {x: -30.304321, y: -27.586151}
+        - {x: -18.304321, y: -33.58615}
+        - {x: 18.695679, y: -33.58615}
+        - {x: 31.695679, y: -16.586151}
+        - {x: 31.695679, y: 5.413849}
+        - {x: 21.695679, y: 34.41385}
+    - name: Wii - Super Paper Mario - Mario_76
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 506
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.016113, y: 27.68518}
+        - {x: -17.016113, y: -27.31482}
+        - {x: 10.983887, y: -27.31482}
+        - {x: 18.983887, y: -22.31482}
+        - {x: 18.983887, y: 27.68518}
+    - name: Wii - Super Paper Mario - Mario_77
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 504
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.866333, y: 33.036224}
+        - {x: -18.866333, y: 26.036224}
+        - {x: -25.866333, y: 8.036224}
+        - {x: -25.866333, y: -14.963776}
+        - {x: -17.866333, y: -31.963776}
+        - {x: 19.133667, y: -31.963776}
+        - {x: 26.133667, y: -20.963776}
+        - {x: 26.133667, y: 32.036224}
+        - {x: 22.133667, y: 33.036224}
+    - name: Wii - Super Paper Mario - Mario_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 369
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.691628, y: 33.231873}
+        - {x: -16.308372, y: 33.231873}
+        - {x: -34.308372, y: 14.231873}
+        - {x: -34.308372, y: -29.768127}
+        - {x: -24.308372, y: -32.768127}
+        - {x: 30.691628, y: -32.768127}
+        - {x: 34.691628, y: -20.768127}
+        - {x: 34.691628, y: -1.7681274}
+        - {x: 22.691628, y: 31.231873}
+    - name: Wii - Super Paper Mario - Mario_79
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 384
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.371178, y: 28.59903}
+        - {x: -26.371178, y: -27.40097}
+        - {x: 21.628822, y: -27.40097}
+        - {x: 26.628822, y: -22.40097}
+        - {x: 26.628822, y: 19.59903}
+        - {x: 22.628822, y: 28.59903}
+    - name: Wii - Super Paper Mario - Mario_80
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 373
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.476654, y: 4.029785}
+        - {x: -30.476654, y: -23.970215}
+        - {x: -8.476654, y: -31.970215}
+        - {x: 27.523346, y: -31.970215}
+        - {x: 31.523346, y: -30.970215}
+        - {x: 31.523346, y: 16.029785}
+        - {x: 29.523346, y: 29.029785}
+        - {x: 15.523346, y: 33.029785}
+        - {x: -15.476654, y: 33.029785}
+        - {x: -20.476654, y: 26.029785}
+    - name: Wii - Super Paper Mario - Mario_81
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 371
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.03946, y: 36.38083}
+        - {x: -20.03946, y: -34.61917}
+        - {x: 8.960541, y: -34.61917}
+        - {x: 20.96054, y: -22.619171}
+        - {x: 20.96054, y: 34.38083}
+        - {x: 16.96054, y: 36.38083}
+    - name: Wii - Super Paper Mario - Mario_82
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 375
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.0813293, y: 29.678741}
+        - {x: -32.08133, y: 1.6787415}
+        - {x: -32.08133, y: -29.321259}
+        - {x: 5.9186707, y: -29.321259}
+        - {x: 32.91867, y: -19.321259}
+        - {x: 32.91867, y: 29.678741}
+    - name: Wii - Super Paper Mario - Mario_83
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 374
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.468597, y: 32.35428}
+        - {x: -17.468597, y: 31.354279}
+        - {x: -28.468597, y: 9.354279}
+        - {x: -28.468597, y: -19.645721}
+        - {x: -19.468597, y: -31.645721}
+        - {x: 22.531403, y: -31.645721}
+        - {x: 29.531403, y: -25.645721}
+        - {x: 29.531403, y: 26.354279}
+        - {x: 22.531403, y: 32.35428}
+    - name: Wii - Super Paper Mario - Mario_84
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 384
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.855896, y: 27.59903}
+        - {x: -18.855896, y: 26.59903}
+        - {x: -23.855896, y: 11.59903}
+        - {x: -23.855896, y: -26.40097}
+        - {x: 25.144104, y: -26.40097}
+        - {x: 25.144104, y: 27.59903}
+    - name: Wii - Super Paper Mario - Mario_85
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 401
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.19806, y: 21.615143}
+        - {x: -7.801941, y: 21.615143}
+        - {x: -30.80194, y: -3.3848572}
+        - {x: -30.80194, y: -20.384857}
+        - {x: 9.198059, y: -20.384857}
+        - {x: 26.19806, y: -10.384857}
+        - {x: 31.19806, y: -6.384857}
+        - {x: 31.19806, y: 17.615143}
+    - name: Wii - Super Paper Mario - Mario_86
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 384
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.933167, y: 28.59903}
+        - {x: -14.0668335, y: 28.59903}
+        - {x: -21.066833, y: 22.59903}
+        - {x: -26.066833, y: 11.59903}
+        - {x: -26.066833, y: -19.40097}
+        - {x: -21.066833, y: -27.40097}
+        - {x: 16.933167, y: -27.40097}
+        - {x: 21.933167, y: -26.40097}
+        - {x: 26.933167, y: -15.40097}
+        - {x: 26.933167, y: 9.59903}
+        - {x: 25.933167, y: 18.59903}
+    - name: Wii - Super Paper Mario - Mario_87
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 371
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.354248, y: 34.38083}
+        - {x: -12.645752, y: 34.38083}
+        - {x: -19.645752, y: 32.38083}
+        - {x: -29.645752, y: 6.380829}
+        - {x: -29.645752, y: -16.619171}
+        - {x: -15.645752, y: -32.61917}
+        - {x: 19.354248, y: -32.61917}
+        - {x: 30.354248, y: -23.619171}
+        - {x: 30.354248, y: 5.380829}
+        - {x: 26.354248, y: 28.380829}
+    - name: Wii - Super Paper Mario - Mario_88
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 364
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.41626, y: 31.609497}
+        - {x: -33.41626, y: 8.609497}
+        - {x: -33.41626, y: -25.390503}
+        - {x: -31.41626, y: -31.390503}
+        - {x: 7.58374, y: -31.390503}
+        - {x: 33.58374, y: -13.390503}
+        - {x: 33.58374, y: 29.609497}
+        - {x: 28.58374, y: 31.609497}
+    - name: Wii - Super Paper Mario - Mario_89
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 383
+        width: 87
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.0217285, y: 22.274567}
+        - {x: -35.02173, y: 11.274567}
+        - {x: -36.02173, y: 9.274567}
+        - {x: -36.02173, y: -4.7254333}
+        - {x: -16.021729, y: -20.725433}
+        - {x: 23.978271, y: -20.725433}
+        - {x: 36.97827, y: -7.7254333}
+        - {x: 36.97827, y: 17.274567}
+        - {x: 23.978271, y: 22.274567}
+    - name: Wii - Super Paper Mario - Mario_90
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 375
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.229492, y: 29.678741}
+        - {x: -21.770508, y: 29.678741}
+        - {x: -24.770508, y: 21.678741}
+        - {x: -24.770508, y: -12.321259}
+        - {x: -18.770508, y: -26.321259}
+        - {x: -15.770508, y: -29.321259}
+        - {x: 12.229492, y: -29.321259}
+        - {x: 26.229492, y: -15.321259}
+        - {x: 26.229492, y: 23.678741}
+        - {x: 25.229492, y: 27.678741}
+    - name: Wii - Super Paper Mario - Mario_91
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 267
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.494364, y: 32.13527}
+        - {x: -20.494364, y: -20.86473}
+        - {x: -10.494364, y: -31.86473}
+        - {x: 13.505636, y: -31.86473}
+        - {x: 21.505636, y: -24.86473}
+        - {x: 21.505636, y: 21.13527}
+        - {x: 19.505636, y: 32.13527}
+    - name: Wii - Super Paper Mario - Mario_92
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 263
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.450882, y: 33.337357}
+        - {x: -20.450882, y: 31.337357}
+        - {x: -20.450882, y: -18.662643}
+        - {x: -14.450882, y: -31.662643}
+        - {x: 8.549118, y: -31.662643}
+        - {x: 21.549118, y: -24.662643}
+        - {x: 21.549118, y: 31.337357}
+        - {x: 19.549118, y: 33.337357}
+    - name: Wii - Super Paper Mario - Mario_93
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 265
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.476654, y: 24.986313}
+        - {x: -20.476654, y: 23.986313}
+        - {x: -22.476654, y: 12.986313}
+        - {x: -22.476654, y: -22.013687}
+        - {x: -19.476654, y: -24.013687}
+        - {x: 23.523346, y: -24.013687}
+        - {x: 23.523346, y: 21.986313}
+        - {x: 14.523346, y: 24.986313}
+    - name: Wii - Super Paper Mario - Mario_94
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 280
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.635254, y: 26.85347}
+        - {x: -25.635254, y: 14.85347}
+        - {x: -25.635254, y: -22.14653}
+        - {x: -23.635254, y: -25.14653}
+        - {x: 18.364746, y: -25.14653}
+        - {x: 27.364746, y: -20.14653}
+        - {x: 27.364746, y: 24.85347}
+        - {x: 24.364746, y: 26.85347}
+    - name: Wii - Super Paper Mario - Mario_95
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 252
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.37921, y: 35.268112}
+        - {x: -40.37921, y: 26.268112}
+        - {x: -40.37921, y: -23.731888}
+        - {x: -29.379211, y: -33.731888}
+        - {x: 31.620789, y: -33.731888}
+        - {x: 39.62079, y: -28.731888}
+        - {x: 40.62079, y: -26.731888}
+        - {x: 40.62079, y: 20.268112}
+        - {x: 19.620789, y: 35.268112}
+    - name: Wii - Super Paper Mario - Mario_96
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 249
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.462158, y: 36.294693}
+        - {x: 12.462158, y: 39.294693}
+        - {x: -23.537842, y: 39.294693}
+        - {x: -41.53784, y: 19.294693}
+        - {x: -41.53784, y: -19.705307}
+        - {x: -34.53784, y: -38.705307}
+        - {x: 29.462158, y: -38.705307}
+        - {x: 39.46216, y: -35.705307}
+        - {x: 42.46216, y: -25.705307}
+        - {x: 42.46216, y: 13.294693}
+    - name: Wii - Super Paper Mario - Mario_97
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 250
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.180359, y: 38.61917}
+        - {x: -28.180359, y: 36.61917}
+        - {x: -35.18036, y: 19.619171}
+        - {x: -35.18036, y: -24.380829}
+        - {x: -23.180359, y: -38.38083}
+        - {x: 36.81964, y: -38.38083}
+        - {x: 36.81964, y: 16.619171}
+        - {x: 22.819641, y: 38.61917}
+    - name: Wii - Super Paper Mario - Mario_98
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 249
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.679565, y: 39.294693}
+        - {x: -42.679565, y: 21.294693}
+        - {x: -42.679565, y: -38.705307}
+        - {x: 41.320435, y: -38.705307}
+        - {x: 43.320435, y: -34.705307}
+        - {x: 43.320435, y: 24.294693}
+        - {x: 14.320435, y: 39.294693}
+    - name: Wii - Super Paper Mario - Mario_99
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 249
+        width: 105
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.338135, y: 39.294693}
+        - {x: -43.338135, y: 14.294693}
+        - {x: -43.338135, y: -30.705307}
+        - {x: -23.338135, y: -38.705307}
+        - {x: 40.661865, y: -38.705307}
+        - {x: 44.661865, y: -25.705307}
+        - {x: 44.661865, y: 14.294693}
+        - {x: 19.661865, y: 39.294693}
+    - name: Wii - Super Paper Mario - Mario_100
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 276
+        width: 100
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.321228, y: 28.555557}
+        - {x: -41.321228, y: 18.555557}
+        - {x: -41.321228, y: -3.4444427}
+        - {x: -36.321228, y: -7.4444427}
+        - {x: 15.678772, y: -27.444443}
+        - {x: 41.678772, y: -27.444443}
+        - {x: 41.678772, y: 5.5555573}
+        - {x: 21.678772, y: 28.555557}
+    - name: Wii - Super Paper Mario - Mario_101
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 249
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.330933, y: 39.294693}
+        - {x: -41.330933, y: 23.294693}
+        - {x: -41.330933, y: -27.705307}
+        - {x: -29.330933, y: -38.705307}
+        - {x: 36.669067, y: -38.705307}
+        - {x: 41.669067, y: -24.705307}
+        - {x: 41.669067, y: 16.294693}
+        - {x: 21.669067, y: 39.294693}
+    - name: Wii - Super Paper Mario - Mario_102
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 253
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.888123, y: 39.09259}
+        - {x: -26.111877, y: 39.09259}
+        - {x: -43.111877, y: 30.09259}
+        - {x: -43.111877, y: -25.90741}
+        - {x: -32.111877, y: -37.90741}
+        - {x: 38.888123, y: -37.90741}
+        - {x: 42.888123, y: -32.90741}
+        - {x: 43.888123, y: -27.90741}
+        - {x: 43.888123, y: 8.09259}
+    - name: Wii - Super Paper Mario - Mario_103
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 252
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.85022, y: 38.268112}
+        - {x: -33.85022, y: 27.268112}
+        - {x: -37.85022, y: 21.268112}
+        - {x: -37.85022, y: -26.731888}
+        - {x: -28.85022, y: -36.731888}
+        - {x: 38.14978, y: -36.731888}
+        - {x: 38.14978, y: 33.268112}
+        - {x: 29.14978, y: 38.268112}
+    - name: Wii - Super Paper Mario - Mario_104
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 147
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.781803, y: 38.198067}
+        - {x: -36.781803, y: 21.198067}
+        - {x: -36.781803, y: -24.801933}
+        - {x: -28.781803, y: -37.801933}
+        - {x: 29.218197, y: -37.801933}
+        - {x: 38.218197, y: -32.801933}
+        - {x: 38.218197, y: 18.198067}
+        - {x: 29.218197, y: 38.198067}
+    - name: Wii - Super Paper Mario - Mario_105
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 147
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.387276, y: 38.198067}
+        - {x: -16.387276, y: 37.198067}
+        - {x: -30.387276, y: 19.198067}
+        - {x: -38.387276, y: 8.198067}
+        - {x: -38.387276, y: -37.801933}
+        - {x: 38.612724, y: -37.801933}
+        - {x: 38.612724, y: 16.198067}
+        - {x: 23.612724, y: 38.198067}
+    - name: Wii - Super Paper Mario - Mario_106
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 145
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.343796, y: 40.049118}
+        - {x: -33.343796, y: 20.049118}
+        - {x: -37.343796, y: 1.049118}
+        - {x: -37.343796, y: -20.950882}
+        - {x: -34.343796, y: -26.950882}
+        - {x: -22.343796, y: -36.950882}
+        - {x: -15.343796, y: -38.950882}
+        - {x: 22.656204, y: -38.950882}
+        - {x: 37.656204, y: -27.950882}
+        - {x: 37.656204, y: 31.049118}
+        - {x: 21.656204, y: 40.049118}
+    - name: Wii - Super Paper Mario - Mario_107
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 147
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.273743, y: 38.198067}
+        - {x: -31.273743, y: 34.198067}
+        - {x: -39.273743, y: 15.198067}
+        - {x: -39.273743, y: -25.801933}
+        - {x: -29.273743, y: -37.801933}
+        - {x: 39.726257, y: -37.801933}
+        - {x: 40.726257, y: -34.801933}
+        - {x: 40.726257, y: 22.198067}
+        - {x: 27.726257, y: 38.198067}
+    - name: Wii - Super Paper Mario - Mario_108
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 147
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.932373, y: 38.198067}
+        - {x: -23.932373, y: 36.198067}
+        - {x: -36.932373, y: 27.198067}
+        - {x: -36.932373, y: -27.801933}
+        - {x: -21.932373, y: -35.801933}
+        - {x: -12.932373, y: -37.801933}
+        - {x: 25.067627, y: -37.801933}
+        - {x: 37.067627, y: -29.801933}
+        - {x: 37.067627, y: 26.198067}
+        - {x: 27.067627, y: 38.198067}
+    - name: Wii - Super Paper Mario - Mario_109
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 147
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.835754, y: 38.198067}
+        - {x: -40.835754, y: 24.198067}
+        - {x: -40.835754, y: -29.801933}
+        - {x: -21.835754, y: -37.801933}
+        - {x: 27.164246, y: -37.801933}
+        - {x: 41.164246, y: -19.801933}
+        - {x: 41.164246, y: 35.198067}
+        - {x: 32.164246, y: 38.198067}
+    - name: Wii - Super Paper Mario - Mario_110
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 147
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.494385, y: 37.698067}
+        - {x: -38.494385, y: 25.698067}
+        - {x: -38.494385, y: -25.301933}
+        - {x: -24.494385, y: -37.301933}
+        - {x: 29.505615, y: -37.301933}
+        - {x: 39.505615, y: -26.301933}
+        - {x: 39.505615, y: 11.698067}
+        - {x: 29.505615, y: 37.698067}
+    - name: Wii - Super Paper Mario - Mario_111
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 189
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_112
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 160
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_113
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 176
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.895325, y: 21.107895}
+        - {x: -27.895325, y: 10.107895}
+        - {x: -27.895325, y: -20.892105}
+        - {x: 28.104675, y: -20.892105}
+        - {x: 28.104675, y: 13.107895}
+        - {x: 25.104675, y: 21.107895}
+    - name: Wii - Super Paper Mario - Mario_114
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 176
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.272156, y: 20.607895}
+        - {x: -27.272156, y: 18.607895}
+        - {x: -27.272156, y: -20.392105}
+        - {x: 26.727844, y: -20.392105}
+        - {x: 28.727844, y: -17.392105}
+        - {x: 28.727844, y: 12.607895}
+        - {x: 26.727844, y: 20.607895}
+    - name: Wii - Super Paper Mario - Mario_115
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 158
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.483887, y: 34.26732}
+        - {x: -34.516113, y: 34.26732}
+        - {x: -40.516113, y: 22.267319}
+        - {x: -40.516113, y: -24.732681}
+        - {x: -38.516113, y: -33.73268}
+        - {x: 25.483887, y: -33.73268}
+        - {x: 42.483887, y: -26.732681}
+        - {x: 42.483887, y: 20.267319}
+    - name: Wii - Super Paper Mario - Mario_116
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 176
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.3341064, y: 23.607895}
+        - {x: -19.334106, y: 13.607895}
+        - {x: -19.334106, y: -21.392105}
+        - {x: -12.334106, y: -23.392105}
+        - {x: 19.665894, y: -23.392105}
+        - {x: 19.665894, y: 19.607895}
+        - {x: 13.665894, y: 23.607895}
+    - name: Wii - Super Paper Mario - Mario_117
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 155
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_118
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 158
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_119
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.92029, y: 14.160225}
+        - {x: 25.92029, y: 24.160225}
+        - {x: -24.07971, y: 24.160225}
+        - {x: -29.07971, y: 18.160225}
+        - {x: -29.07971, y: -14.839775}
+        - {x: -28.07971, y: -17.839775}
+        - {x: -11.07971, y: -22.839775}
+        - {x: 8.92029, y: -22.839775}
+        - {x: 16.92029, y: -20.839775}
+        - {x: 27.92029, y: -14.839775}
+        - {x: 29.92029, y: -7.839775}
+    - name: Wii - Super Paper Mario - Mario_120
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 82
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.334137, y: 21.607086}
+        - {x: -28.334137, y: -18.392914}
+        - {x: -27.334137, y: -20.392914}
+        - {x: 28.665863, y: -20.392914}
+        - {x: 28.665863, y: 20.607086}
+        - {x: 27.665863, y: 21.607086}
+    - name: Wii - Super Paper Mario - Mario_121
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 79
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.131241, y: 21.63366}
+        - {x: -27.13124, y: 16.63366}
+        - {x: -27.13124, y: -21.36634}
+        - {x: 24.86876, y: -21.36634}
+        - {x: 27.86876, y: -19.36634}
+        - {x: 27.86876, y: 13.633659}
+        - {x: 25.86876, y: 21.63366}
+    - name: Wii - Super Paper Mario - Mario_122
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 69
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.518524, y: 29.38889}
+        - {x: -20.481476, y: -3.6111107}
+        - {x: -20.481476, y: -27.61111}
+        - {x: 11.518524, y: -27.61111}
+        - {x: 18.518524, y: -23.61111}
+        - {x: 21.518524, y: -5.6111107}
+        - {x: 21.518524, y: 29.38889}
+    - name: Wii - Super Paper Mario - Mario_123
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 71
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.943634, y: 28.537842}
+        - {x: -16.943634, y: 27.537842}
+        - {x: -16.943634, y: -16.462158}
+        - {x: -15.943634, y: -27.462158}
+        - {x: 12.056366, y: -27.462158}
+        - {x: 17.056366, y: -24.462158}
+        - {x: 17.056366, y: 1.5378418}
+        - {x: 8.056366, y: 28.537842}
+    - name: Wii - Super Paper Mario - Mario_124
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 79
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.32608, y: 20.63366}
+        - {x: -27.32608, y: 17.63366}
+        - {x: -27.32608, y: -15.366341}
+        - {x: -22.32608, y: -20.36634}
+        - {x: 23.67392, y: -20.36634}
+        - {x: 27.67392, y: -12.366341}
+        - {x: 27.67392, y: 20.63366}
+    - name: Wii - Super Paper Mario - Mario_125
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 82
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.878418, y: 20.607086}
+        - {x: -27.878418, y: 16.607086}
+        - {x: -27.878418, y: -19.392914}
+        - {x: 29.121582, y: -19.392914}
+        - {x: 29.121582, y: 18.607086}
+        - {x: 25.121582, y: 20.607086}
+    - name: Wii - Super Paper Mario - Mario_126
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 78
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.930725, y: 20.809181}
+        - {x: -21.930725, y: 16.809181}
+        - {x: -21.930725, y: -16.190819}
+        - {x: -20.930725, y: -20.190819}
+        - {x: 20.069275, y: -20.190819}
+        - {x: 22.069275, y: -18.190819}
+        - {x: 22.069275, y: 8.809181}
+        - {x: 16.069275, y: 20.809181}
+    - name: Wii - Super Paper Mario - Mario_127
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 77
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.043457, y: 23.984703}
+        - {x: -17.956543, y: 23.984703}
+        - {x: -19.956543, y: 22.984703}
+        - {x: -19.956543, y: -23.015297}
+        - {x: 9.043457, y: -23.015297}
+        - {x: 12.043457, y: -21.015297}
+        - {x: 20.043457, y: -11.015297}
+        - {x: 20.043457, y: 17.984703}
+    - name: Wii - Super Paper Mario - Mario_128
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 73
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.386475, y: 24.186794}
+        - {x: -22.386475, y: 22.186794}
+        - {x: -22.386475, y: -21.813206}
+        - {x: -18.386475, y: -23.813206}
+        - {x: 19.613525, y: -23.813206}
+        - {x: 23.613525, y: -22.813206}
+        - {x: 23.613525, y: 24.186794}
+    - name: Wii - Super Paper Mario - Mario_129
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 81
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.508057, y: 21.782608}
+        - {x: -20.508057, y: 19.782608}
+        - {x: -21.508057, y: 13.782608}
+        - {x: -21.508057, y: -15.217392}
+        - {x: -12.508057, y: -20.217392}
+        - {x: 22.491943, y: -20.217392}
+        - {x: 23.491943, y: -18.217392}
+        - {x: 23.491943, y: 19.782608}
+        - {x: 21.491943, y: 21.782608}
+    - name: Wii - Super Paper Mario - Mario_130
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 82
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.305115, y: 21.607086}
+        - {x: -26.305115, y: 18.607086}
+        - {x: -27.305115, y: 16.607086}
+        - {x: -27.305115, y: -12.392914}
+        - {x: -24.305115, y: -20.392914}
+        - {x: 20.694885, y: -20.392914}
+        - {x: 27.694885, y: -19.392914}
+        - {x: 27.694885, y: 21.607086}
+    - name: Wii - Super Paper Mario - Mario_131
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 79
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.546692, y: 21.13366}
+        - {x: -28.453308, y: 21.13366}
+        - {x: -28.453308, y: -19.86634}
+        - {x: -26.453308, y: -20.86634}
+        - {x: 28.546692, y: -20.86634}
+        - {x: 28.546692, y: 18.13366}
+        - {x: 21.546692, y: 20.13366}
+    - name: Wii - Super Paper Mario - Mario_132
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 76
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_133
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 76
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_134
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 103
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.9468994, y: 17.921097}
+        - {x: -17.0531, y: 7.921097}
+        - {x: -18.0531, y: 3.9210968}
+        - {x: -18.0531, y: -11.078903}
+        - {x: -12.053101, y: -16.078903}
+        - {x: 4.9468994, y: -16.078903}
+        - {x: 12.946899, y: -13.078903}
+        - {x: 19.9469, y: 8.921097}
+        - {x: 19.9469, y: 17.921097}
+    - name: Wii - Super Paper Mario - Mario_135
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 98
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_136
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 87
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.073242, y: 22.22947}
+        - {x: -38.073242, y: -20.77053}
+        - {x: 32.926758, y: -20.77053}
+        - {x: 38.926758, y: 1.2294693}
+        - {x: 38.926758, y: 22.22947}
+    - name: Wii - Super Paper Mario - Mario_137
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.622383, y: 19.042673}
+        - {x: -21.377617, y: 6.042673}
+        - {x: -21.377617, y: -14.957327}
+        - {x: -18.377617, y: -17.957327}
+        - {x: 0.6223831, y: -17.957327}
+        - {x: 7.622383, y: -14.957327}
+        - {x: 21.622383, y: 9.042673}
+        - {x: 21.622383, y: 19.042673}
+    - name: Wii - Super Paper Mario - Mario_138
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 10
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.148148, y: 17.744766}
+        - {x: -21.148148, y: 17.744766}
+        - {x: -21.148148, y: 8.744766}
+        - {x: -5.1481476, y: -17.255234}
+        - {x: 18.851852, y: -17.255234}
+        - {x: 22.851852, y: -14.255234}
+        - {x: 22.851852, y: 6.744766}
+        - {x: 16.851852, y: 10.744766}
+    - name: Wii - Super Paper Mario - Mario_139
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.801933, y: 22.5}
+        - {x: -37.801933, y: -8.5}
+        - {x: -29.801933, y: -22.5}
+        - {x: 22.198067, y: -22.5}
+        - {x: 31.198067, y: -11.5}
+        - {x: 38.198067, y: 7.5}
+        - {x: 38.198067, y: 22.5}
+    - name: Wii - Super Paper Mario - Mario_140
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5
+        width: 92
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.152176, y: 20.622383}
+        - {x: -38.152176, y: -5.377617}
+        - {x: -24.152176, y: -20.377617}
+        - {x: 16.847824, y: -20.377617}
+        - {x: 38.847824, y: 2.622383}
+        - {x: 38.847824, y: 20.622383}
+    - name: Wii - Super Paper Mario - Mario_141
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 10
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.677948, y: 18.744766}
+        - {x: -22.677948, y: 7.744766}
+        - {x: -22.677948, y: -10.255234}
+        - {x: -2.677948, y: -18.255234}
+        - {x: 12.322052, y: -18.255234}
+        - {x: 23.322052, y: -5.255234}
+        - {x: 23.322052, y: 9.744766}
+        - {x: 9.322052, y: 18.744766}
+    - name: Wii - Super Paper Mario - Mario_142
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 5
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_143
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 13
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.63446, y: 20.718197}
+        - {x: -19.63446, y: 14.718197}
+        - {x: -19.63446, y: -12.281803}
+        - {x: -17.63446, y: -17.281803}
+        - {x: -12.63446, y: -19.281803}
+        - {x: 18.36554, y: -19.281803}
+        - {x: 20.36554, y: -18.281803}
+        - {x: 20.36554, y: 19.718197}
+        - {x: 12.36554, y: 20.718197}
+    - name: Wii - Super Paper Mario - Mario_144
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 16
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_145
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 14
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_146
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 22
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_147
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 14
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_148
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 25
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_149
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 19
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_150
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 19
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_151
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 20
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_152
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 31
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_153
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 37
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_154
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 35
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_155
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 33
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_156
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 22
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_157
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 20
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_158
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 12
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_159
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 16
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Wii - Super Paper Mario - Mario_160
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 16
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     outline: []
   spritePackingTag: 
   userData: 
